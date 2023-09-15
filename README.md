@@ -1,6 +1,3 @@
-# Jose-Borunda-Portfolio
-Jose A. Borunda Developer Portfolio
-
 
 # Jose Antonio Borunda Portfolio
 

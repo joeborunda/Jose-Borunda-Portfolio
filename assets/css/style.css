@@ -22,7 +22,10 @@ h2 {
   font-size: 250%;
 }
 
-
+.experience
+{
+  margin-left: 400px;
+}
 
 nav ul {
   display: flex;
