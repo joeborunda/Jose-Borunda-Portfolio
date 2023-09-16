@@ -22,10 +22,6 @@ h2 {
   font-size: 250%;
 }
 
-.experience
-{
-  margin-left: 400px;
-}
 
 nav ul {
   display: flex;
@@ -41,8 +37,8 @@ nav a {
 
 
 main {
-  
-  
+
+
   max-width: 1600px;
   margin: 2% auto;
 }
@@ -119,15 +115,26 @@ footer {
   }
 }
 
-.developer {
+.devimage {
+  margin-left: 35%;
   border: 10px solid #a15151;
   border-radius: 10px;
   padding: 5px;
-  width: 300px;
+  width: 400px;
 }
 
 
-.text-center {
-  text-align: center;
+.aboutMeTwo, .work, .contact-me, .resume {
+  display: flex;
+}
+
+.left {
+  width: 20%;
+  text-align: left;
+}
+
+.right {
+  width: 80%;
+margin-top: 20px;
 
 }
